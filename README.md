@@ -1,2 +1,2 @@
 # MaxPairWise
-C++ code for efficient algorithms to find the maximum pairwise product in a sequence of numbers. Includes O(n²) and O(n) time complexity implementations. 
+C++ code for two algorithms to find the maximum pairwise product in a sequence of numbers. The 'MaxPairwiseProduct' function has a time complexity of O(n²), while the 'MaxPairwiseProductFast' function has a more efficient O(n) time complexity. The code includes a main function to input a sequence of numbers and output the result. Additionally, there is commented-out code for stress testing the algorithms with randomly generated inputs. 
